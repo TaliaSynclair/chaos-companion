@@ -1,0 +1,138 @@
+/* [CC-CSS-001] Chaos Companion MVP styles */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  font-family: Arial, Helvetica, sans-serif;
+  background:
+    radial-gradient(circle at top, #ffe6a7 0%, #f7b267 32%, #2a9d8f 100%);
+  color: #1f2933;
+}
+
+/* [CC-CSS-010] Main shell */
+.app-shell {
+  width: min(100% - 24px, 520px);
+  margin: 0 auto;
+  padding: 24px 0 40px;
+}
+
+/* [CC-CSS-020] Hero card */
+.hero-card,
+.result-card,
+.travel-card {
+  background: rgba(255, 255, 255, 0.88);
+  border-radius: 24px;
+  padding: 22px;
+  margin-bottom: 18px;
+  box-shadow: 0 14px 36px rgba(0, 0, 0, 0.18);
+  backdrop-filter: blur(6px);
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: #00796b;
+}
+
+h1,
+h2,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  margin-bottom: 8px;
+  font-size: clamp(2.2rem, 9vw, 4rem);
+  line-height: 0.95;
+}
+
+.tagline {
+  margin-bottom: 0;
+  font-size: 1.1rem;
+}
+
+/* [CC-CSS-030] Buttons */
+.button-grid {
+  display: grid;
+  gap: 12px;
+  margin-bottom: 18px;
+}
+
+.action-button {
+  width: 100%;
+  border: 0;
+  border-radius: 18px;
+  padding: 18px 16px;
+  font-size: 1.05rem;
+  font-weight: 800;
+  color: #ffffff;
+  background: #0f766e;
+  box-shadow: 0 8px 18px rgba(0, 0, 0, 0.18);
+  cursor: pointer;
+}
+
+.action-button:active {
+  transform: translateY(2px);
+}
+
+/* [CC-CSS-040] Result card */
+.result-label {
+  margin-bottom: 6px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  font-weight: 800;
+  color: #c2410c;
+}
+
+.result-card h2 {
+  margin-bottom: 12px;
+}
+
+#resultText {
+  font-size: 1.05rem;
+  line-height: 1.45;
+}
+
+.result-meta {
+  margin-bottom: 0;
+  font-size: 0.9rem;
+  font-weight: 700;
+  color: #64748b;
+}
+
+.companion-image {
+  display: block;
+  width: 100%;
+  max-width: 320px;
+  margin: 0 auto 16px;
+  border-radius: 18px;
+}
+
+.hidden {
+  display: none;
+}
+
+/* [CC-CSS-050] Travel card */
+.travel-card p {
+  line-height: 1.45;
+}
+
+.travel-link {
+  display: inline-block;
+  margin-top: 4px;
+  color: #0f766e;
+  font-weight: 800;
+  text-decoration: none;
+}
+
+.travel-link:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,67 @@
+<!-- [CC-HTML-001] Chaos Companion MVP landing page -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- [CC-HTML-002] Basic page setup -->
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title>Chaos Companion: Mexico Edition</title>
+
+  <!-- [CC-HTML-003] Stylesheet -->
+  <link rel="stylesheet" href="assets/css/styles.css" />
+</head>
+
+<body>
+  <!-- [CC-HTML-010] Main app shell -->
+  <main class="app-shell">
+
+    <!-- [CC-HTML-020] Header -->
+    <section class="hero-card">
+      <p class="eyebrow">Chaos Companion</p>
+      <h1>Mexico Edition</h1>
+      <p class="tagline">Your tiny vacation companion has arrived.</p>
+    </section>
+
+<!-- [CC-HTML-030] Action buttons -->
+<section class="button-grid" aria-label="Chaos Companion actions">
+  <button id="companionButton" class="action-button">
+    Consult the Duck
+  </button>
+
+  <button id="questButton" class="action-button">
+    Receive a Tiny Mission
+  </button>
+
+  <button id="chaosButton" class="action-button">
+    Release the Goblin
+  </button>
+</section>
+
+    <!-- [CC-HTML-040] Result display -->
+    <section id="resultCard" class="result-card">
+      <p class="result-label">Ready</p>
+      <h2 id="resultTitle">Tap a button to begin.</h2>
+      <img id="resultImage" class="companion-image hidden" src="" alt="" />
+      <p id="resultText"><p id="resultText">Choose your vacation nonsense.  Tap again anytime to reroll.</p>
+      <p id="resultMeta" class="result-meta"></p>
+    </section>
+
+    <!-- [CC-HTML-050] Travel link -->
+    <section class="travel-card">
+      <h2>Want the next adventure?</h2>
+      <p>
+        Porch Swing Travels helps plan cruises, all-inclusives, theme parks,
+        and other memory-making escapes.
+      </p>
+      <a class="travel-link" href="#" target="_blank" rel="noopener">
+        Visit Porch Swing Travels
+      </a>
+    </section>
+
+  </main>
+
+  <!-- [CC-HTML-900] App script -->
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

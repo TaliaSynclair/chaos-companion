@@ -1,0 +1,90 @@
+[
+  {
+    "id": "duck_001",
+    "name": "Señor Seaside",
+    "rarity": "Common",
+    "vibe": "Oceanfront vacation ambassador",
+    "description": "Arrives with sunscreen, opinions, and a suspicious amount of confidence about where the good chairs are.",
+    "image": "assets/img/ducks/duck_001.png"
+  },
+  {
+    "id": "duck_002",
+    "name": "Palmsworth",
+    "rarity": "Common",
+    "vibe": "Beach lounger aristocrat",
+    "description": "Believes the perfect vacation begins with shade, a drink, and claiming a chair before breakfast.",
+    "image": "assets/img/ducks/duck_002.png"
+  },
+  {
+    "id": "duck_003",
+    "name": "Sir Floatington",
+    "rarity": "Common",
+    "vibe": "Pool drift specialist",
+    "description": "Has no destination, no timeline, and no interest in being useful before lunch.",
+    "image": "assets/img/ducks/duck_003.png"
+  },
+  {
+    "id": "duck_004",
+    "name": "Cantina Quack",
+    "rarity": "Uncommon",
+    "vibe": "Evening bar philosopher",
+    "description": "Claims every good story starts with, 'We were only going to have one.'",
+    "image": "assets/img/ducks/duck_004.png"
+  },
+  {
+    "id": "duck_005",
+    "name": "Cotorros",
+    "rarity": "Uncommon",
+    "vibe": "Poolside social scout",
+    "description": "Knows where the conversation is loudest, the drinks are coldest, and the snacks are least guarded.",
+    "image": "assets/img/ducks/duck_005.png"
+  },
+  {
+    "id": "duck_006",
+    "name": "The Towel Baron",
+    "rarity": "Rare",
+    "vibe": "Chair reservation strategist",
+    "description": "Does not run the resort, but has definitely considered forming a towel-based government.",
+    "image": "assets/img/ducks/duck_006.png"
+  },
+  {
+    "id": "duck_007",
+    "name": "Captain Swim-Up",
+    "rarity": "Rare",
+    "vibe": "Aquatic room-service optimist",
+    "description": "Strongly believes every room should come with direct access to water and questionable decisions.",
+    "image": "assets/img/ducks/duck_007.png"
+  },
+  {
+    "id": "duck_008",
+    "name": "Moonlight Mariner",
+    "rarity": "Rare",
+    "vibe": "Sunset-to-starlight wanderer",
+    "description": "Appears when the sky turns gold and quietly suggests staying out just a little longer.",
+    "image": "assets/img/ducks/duck_008.png"
+  },
+  {
+    "id": "duck_009",
+    "name": "Buffet del Pato",
+    "rarity": "Uncommon",
+    "vibe": "Snack-motivated explorer",
+    "description": "Has no map, no plan, and somehow always knows when fresh dessert appears.",
+    "image": "assets/img/ducks/duck_009.png"
+  },
+  {
+    "id": "duck_010",
+    "name": "Hacienda Waddles",
+    "rarity": "Legendary",
+    "vibe": "Relaxed luxury traditionalist",
+    "description": "Moves slowly, judges loudly, and insists that vacation is a sacred art form.",
+    "image": "assets/img/ducks/duck_010.png"
+  },
+  {
+    "id": "duck_011",
+    "name": "Puerto Quackventuras",
+    "rarity": "Legendary",
+    "vibe": "Adventure-adjacent resort oracle",
+    "description": "Always knows there is something nearby worth seeing, eating, drinking, or wildly misinterpreting.",
+    "image": "assets/img/ducks/duck_011.png"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "quest_001",
+    "text": "Compliment a resort staff member.",
+    "image": "assets/img/quests/quest_001.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_002",
+    "text": "Try one food you would not normally order.",
+    "image": "assets/img/quests/quest_002.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_003",
+    "text": "Watch the sunset without checking your phone.",
+    "image": "assets/img/quests/quest_003.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_004",
+    "text": "Ask someone where they traveled from.",
+    "image": "assets/img/quests/quest_004.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_005",
+    "text": "Learn one useful Spanish phrase and actually use it.",
+    "image": "assets/img/quests/quest_005.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_006",
+    "text": "Take a photo of something that feels like vacation.",
+    "image": "assets/img/quests/quest_006.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_007",
+    "text": "Find the quietest spot at the resort.",
+    "image": "assets/img/quests/quest_007.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_008",
+    "text": "Find the loudest spot at the resort.",
+    "image": "assets/img/quests/quest_008.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_009",
+    "text": "Order the most colorful drink on the menu.",
+    "image": "assets/img/quests/quest_009.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_010",
+    "text": "Ask a bartender or server what they recommend.",
+    "image": "assets/img/quests/quest_010.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_011",
+    "text": "Take a walk with no destination.",
+    "image": "assets/img/quests/quest_011.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_012",
+    "text": "Find a chair with the best view.",
+    "image": "assets/img/quests/quest_012.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_013",
+    "text": "Tell someone in your group one thing you are glad you did today.",
+    "image": "assets/img/quests/quest_013.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_014",
+    "text": "Try a dessert you cannot pronounce.",
+    "image": "assets/img/quests/quest_014.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_015",
+    "text": "Find something shaped like a heart.",
+    "image": "assets/img/quests/quest_015.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_016",
+    "text": "Take a picture of your drink before it melts.",
+    "image": "assets/img/quests/quest_016.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_017",
+    "text": "Ask someone what their favorite vacation memory is.",
+    "image": "assets/img/quests/quest_017.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_018",
+    "text": "Do absolutely nothing for ten full minutes.",
+    "image": "assets/img/quests/quest_018.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_019",
+    "text": "Find a new path back to your room.",
+    "image": "assets/img/quests/quest_019.png",
+    "companionType": "Quest Companion"
+  },
+  {
+    "id": "quest_020",
+    "text": "Thank someone who made your day easier.",
+    "image": "assets/img/quests/quest_020.png",
+    "companionType": "Quest Companion"
+  }
+]
